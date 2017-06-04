@@ -33,6 +33,37 @@
 
  /* GENERAL STYLE */
 
+ .custom-device-mockup-iphone6 {
+	    
+	 background-image: url("iphone_6/iphone_6_port_black.png");
+ }
+
+ .socialIcons a {
+
+	 padding-right: 25px;
+ }
+
+ .iphones > img {
+
+	 max-width: 250px;
+	 max-height: 556px;
+	 margin-right: 30px;
+ }
+
+ .device-container-mobile  {
+	max-width: 250px;
+	margin-left: 200px;
+}
+
+.device-container-mobile2  {
+	max-width: 250px;
+}
+
+#phone1, #phone2 {
+
+	display: inline-block;
+}
+
 .device-mockup {
 	position: relative;
 	width: 100%;
